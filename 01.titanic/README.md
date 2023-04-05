@@ -5,3 +5,5 @@
     - 2주차 : [EDA To predict(DieTitanic)](https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic/notebook)
     - 3주차 : [Titanic Top 4% with ensemble modeling](https://www.kaggle.com/code/yassineghouzam/titanic-top-4-with-ensemble-modeling/notebook)
     - 4주차 : [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/code/arthurtok/introduction-to-ensembling-stacking-in-python/notebook)
+
+- 1주차는 생략하고 진행
